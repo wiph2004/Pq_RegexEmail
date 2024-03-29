@@ -1,6 +1,6 @@
-# Title (replace with your title)
+# How to Implement Regex Email
 
-Introductory paragraph (replace this with your text)
+This tutorial explains how to use regex when parsing/using emails to create accounts
 
 ## Summary
 
